@@ -33,7 +33,7 @@
     {
       "Path": "resources/config.json",
       "Checksum": "5QkEN82rR5s=",
-      "Size": 1098
+      "Size": 1094
     },
     {
       "Path": "resources/credits.json",
@@ -4203,7 +4203,7 @@
     {
       "Path": "resources/plugins/config.json",
       "Checksum": "+iUfHdQCzqI=",
-      "Size": 1070
+      "Size": 1094
     },
     {
       "Path": "resources/plugins/LICENSE",
